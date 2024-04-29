@@ -119,25 +119,36 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 ## Array value of x:
-![270175578-7e48ad70-907e-4585-a806-fcead19a2d76](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/bc686f52-2f6a-4c37-8d74-218e901ecebf)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/177f4049-d300-460b-98d0-9c98f2b2bc62)
+
+
 ## Array value of y:
-![270175589-a7e1667e-8d94-4909-be48-ebeebaf6ac72](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/21bb4296-72a0-4ad6-80b8-85952b91237a)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/e24fb81d-81c8-4c87-b87e-dd4018b42a2d)
+
 ## score graph:
-![270175603-b34a3003-38bf-40fc-870f-5c368ecf4982](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/c446601b-d0e8-4f8c-bee5-81a21e83f38b)
+![270424409-edc4acfc-30af-40ec-9c5e-eac35cb89e19](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/c4260b20-35c0-4029-8da2-06ee585aa2a8)
+
 ## sigmoid function graph:
-![270175614-98cc6cc3-da72-44bf-9ab0-b8c667afe50a](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/9d0e4839-60f7-47a6-9a53-264d241b032f)
+![270424445-9bd4bfca-0274-4d02-97ea-88bc4274d31a](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/a5cbc1a2-c7bb-4126-ae4b-38afd652ff61)
+
 ## x train grad value:
-![270175625-41cab977-c53f-4e14-b70f-3cf2f1ed406f](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/53da6b6c-5439-4bb1-af54-90653e3ff0cf)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/a2dc9a41-7932-45d7-9de6-a22c48ce33ad)
+
 ## y train grad value:
-![270175631-7e15370a-ad0c-4817-9470-1251145c316b](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/26ead445-a81f-422c-b6c7-73b8bd547891)
-## regression value:
-![270175636-dff70077-50b7-4310-8244-b179f3eaecef](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/516cafbe-ff58-484d-9b0b-e87497b33ee8)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/47b5d4fb-ae69-4eb2-bc12-aa94d3e9e276)
+
+## Print res.x:
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/4370496e-5366-48bd-b54d-30ea40bd15fb)
+
 ## decision boundary graph:
-![270175649-37ef683a-bf67-4590-863d-8178891be739](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/550c212b-9e76-47bf-b632-ecd955aa7333)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/4285624b-45fc-4589-a45e-0f34630ae56d)
+
 ## Probablity value:
-![270175658-e2066e39-2e84-40db-b6c5-bd5468b7a825](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/cd3d41f0-54d1-4fe5-aa12-2ca012d498ba)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/f72274dd-ebc9-4018-b903-35c1135a8a38)
+
 ## Prediction value of mean:
-![270175669-42e715be-3ac1-4122-9c87-a21100189de1](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/896baf08-b44f-4008-a120-9e271ca6cd36)
+![270424764-1d6e9ca6-3ecf-4029-828b-1993ca653c66](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/33355f99-f18f-4038-bcde-f932c3aeedd2)
+
 
 
 
