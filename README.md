@@ -144,7 +144,8 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/4285624b-45fc-4589-a45e-0f34630ae56d)
 
 ## Probablity value:
-![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/f72274dd-ebc9-4018-b903-35c1135a8a38)
+![image](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/9baedff3-ef3e-4994-adef-5ddc4a9edada)
+
 
 ## Prediction value of mean:
 ![270424764-1d6e9ca6-3ecf-4029-828b-1993ca653c66](https://github.com/vksachin2018/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149366019/33355f99-f18f-4038-bcde-f932c3aeedd2)
