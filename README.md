@@ -24,8 +24,8 @@ STEP 6 STOP
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by:gokul sachik.k 
-RegisterNumber:  212223220025
+Developed by : MS sanjay
+RegisterNumber:  212223040183
 
 
 import numpy as np
